@@ -1,0 +1,64 @@
+{
+  "name":"Noureddine Laghrib",
+  "age":24,
+  "salary":55000.0,
+
+  "address":
+  {
+    "city":"New York",
+    "country":"USA",
+    "street":"123 street"
+  },
+
+  "payment":[
+    {
+      "amount":250.2,
+      "name":"Food"
+    }
+  ,
+    {
+      "amount":500.0,
+      "name":"Visa"
+    }
+  ,
+    {
+      "amount":16.99,
+      "name":"Internat"
+    }
+  ,
+    {
+      "amount":752.55,
+      "name":"Gaz Car"
+    }
+  ,
+    {
+      "amount":988.65,
+      "name":"Tex"
+    }
+  ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
